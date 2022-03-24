@@ -1,0 +1,8 @@
+vendor/
+
+.\#*
+*\#*\.go
+\#*\#
+\.DS_Store
+
+go-skeleton
